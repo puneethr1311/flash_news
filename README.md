@@ -39,16 +39,7 @@ npm run dev
 ```
 ## project structure
 
-flash_news/
-├── public/                  # Static assets
-├── src/
-│   ├── components/          # Reusable UI components
-│   ├── data/                # Static news articles
-│   ├── pages/               # Page-level components
-│   └── admin/               # Admin pricing controls
-├── package.json
-├── vite.config.js
-└── README.md
+<pre lang="markdown"><code> ## 🗂️ Project Structure flash_news/ ├── public/ # Static assets (favicon, index.html) ├── src/ │ ├── components/ # Reusable UI components │ ├── data/ # Static news articles (JSON or JS files) │ ├── pages/ # Page-level components (Home, About, etc.) │ └── admin/ # Admin panel for setting author article prices ├── package.json # Project metadata and dependencies ├── vite.config.js # Vite configuration (if using Vite) └── README.md # Project documentation </code></pre>
 
 
 ## ✨ Author
