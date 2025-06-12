@@ -118,12 +118,12 @@ const LoginScreen = () => {
             <div className="space-y-2 text-xs">
               <div className="bg-background rounded p-2 border border-accent-200">
                 <p className="font-medium text-text-primary">Admin Access:</p>
-                <p className="text-text-secondary">Email: admin@newshub.com</p>
+                <p className="text-text-secondary">Email: admin@flashnews.com</p>
                 <p className="text-text-secondary">Password: admin123</p>
               </div>
               <div className="bg-background rounded p-2 border border-accent-200">
                 <p className="font-medium text-text-primary">User Access:</p>
-                <p className="text-text-secondary">Email: user@newshub.com</p>
+                <p className="text-text-secondary">Email: flashnews.com</p>
                 <p className="text-text-secondary">Password: user123</p>
               </div>
             </div>
