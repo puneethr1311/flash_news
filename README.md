@@ -37,7 +37,7 @@ npm install
 Run the Application
 npm run dev
 ```
-#project structure
+## project structure
 
 flash_news/
 ├── public/                  # Static assets
@@ -51,6 +51,6 @@ flash_news/
 └── README.md
 
 
-✨ Author
+## ✨ Author
 Made with ❤️ by Puneet 
 GitHub: @puneethr1311
