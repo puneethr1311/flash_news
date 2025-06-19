@@ -35,7 +35,7 @@ Install Dependencies
 npm install
 
 Run the Application
-npm run dev
+npm start
 ```
 ## project structure
 
