@@ -123,7 +123,7 @@ const LoginScreen = () => {
               </div>
               <div className="bg-background rounded p-2 border border-accent-200">
                 <p className="font-medium text-text-primary">User Access:</p>
-                <p className="text-text-secondary">Email: flashnews.com</p>
+                <p className="text-text-secondary">Email: user@flashnews.com</p>
                 <p className="text-text-secondary">Password: user123</p>
               </div>
             </div>
